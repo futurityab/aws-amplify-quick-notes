@@ -6,7 +6,7 @@ import { Predictions } from "aws-amplify";
 import RecordingEditor from "./Recording-Editor";
 
 const Note = styled("div")`
-  background-color: #ffffff;
+  background-color: #000000;
   border-radius: 4px;
   margin-bottom: 24px;
   display: flex;
