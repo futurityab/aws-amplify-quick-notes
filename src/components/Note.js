@@ -37,10 +37,10 @@ const Icon = styled("button")`
   border: none;
   cursor: pointer;
   flex: 1;
-  background-color: #ffffff;
+  background-color: #000000;
 
   &:hover {
-    color: #ffffff;
+    color: #dddddd;
     background-color: #74b49b;
   }
 `;
