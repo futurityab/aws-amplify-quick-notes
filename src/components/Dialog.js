@@ -14,7 +14,7 @@ const StyledDialogOverlay = styled(DialogOverlay)`
 `;
 
 const StyledDialogContent = styled(DialogContent)`
-  background-color: #ffffff;
+  background-color: #000000;
   border-radius: 4px;
   max-width: 800px;
   box-shadow: 0 0 9px rgba(255, 255, 255, 0.3);
