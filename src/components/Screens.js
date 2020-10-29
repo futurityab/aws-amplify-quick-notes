@@ -79,10 +79,10 @@ const StyledTab = styled(Tab)`
   flex: 1;
   padding: 16px;
   color: #74b49b;
-  background-color: #ffffff;
+  background-color: #000000;
   font-size: 16px;
   border: none;
-  border-bottom: 3px solid #ffffff;
+  border-bottom: 3px solid #333333;
 `;
 
 export default () => {
